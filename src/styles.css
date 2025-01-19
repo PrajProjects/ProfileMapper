@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.profile-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.profile-card img {
+  border-radius: 50%; /* Makes the image circular */
+  width: 100px; /* Adjust as needed */
+  height: 100px; /* Ensure a square shape for the circle */
+  object-fit: cover; /* Ensures the image scales properly inside the circle */
+  margin-bottom: 8px; /* Add some spacing below the image */
+}
+
+.profile-card h3 {
+  margin-top: 12px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.profile-card p {
+  margin: 8px 0;
+  color: #555;
+}
+
+button {
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
