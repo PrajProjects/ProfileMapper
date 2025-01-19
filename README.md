@@ -1,4 +1,12 @@
-<<<<<<< HEAD
+## Important Login Credentials for admin
+Email Address:admin@example.com
+password:admin123
+
+# Working 
+1.Home page contains the imformation of the users.On clicking the Details button it give more imformation about the user.On clicking Summary button it gives the location on the map
+2.Once,the admin has logged in it can edit,delete,add the profile that changes are visible on both the home page and the admin page
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +77,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# ProfileMapper
->>>>>>> 8562468898370de8e978576832558e9e79d37f44
